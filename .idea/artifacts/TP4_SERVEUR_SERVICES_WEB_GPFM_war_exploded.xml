@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TP4_SERVEUR_SERVICES_WEB_GPFM:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/TP4_SERVEUR_SERVICES_WEB_GPFM_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TP4_SERVEUR_SERVICES_WEB_GPFM/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TP4_SERVEUR_SERVICES_WEB_GPFM" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
